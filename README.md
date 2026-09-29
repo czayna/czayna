@@ -33,15 +33,6 @@ I am a 3rd-year **Bachelor of Science in Information Technology** student at the
 
 ---
 
-### 📊 My GitHub Contributions & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=czayna&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czayna&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Let's Connect & Collaborate
-* **LinkedIn:** [www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/)
-* **Email:** your.email@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/your-actual-linkedin](https://www.linkedin.com/in/)
+* **Email:** rizalina.ortega@unc.edu.ph
