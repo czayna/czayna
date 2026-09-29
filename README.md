@@ -1,27 +1,40 @@
-### Hi there, I'm Rizalina! 👋 
+### 👋 Hi there, I'm Rizalina A. Ortega!
 
-I am a **3rd-year Bachelor of Science in Information Technology student at the University of Nueva Caceres**[cite: 1], focusing on **Data Analytics, Operations Analysis, and Systems Integration**. I build data pipelines, workflow automation tools, and enterprise tracking portals that solve real-world administrative and business bottlenecks.
+<img src="https://komarev.com/ghpvc/?username=czayna&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 ---
 
-### 🛠️ Technical Toolkit
-* **Languages & Scripting:** Python (Pandas, FastAPI, Scikit-Learn), SQL, JavaScript, HTML/CSS
-* **Databases & Tools:** PostgreSQL, Git/GitHub, Streamlit, Power BI, Looker Studio, Figma
-* **Operations Frameworks:** Process Mapping, IPO Framework, ISO/IEC 25010 Quality Standards, Workflow Automation
+### 💻 When I code, I rely on
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### About Me
+I am a 3rd-year **Bachelor of Science in Information Technology** student at the University of Nueva Caceres[cite: 1]. I am passionate about bridging data analytics and operations management—building systems, automated workflows, and data pipelines that solve real-world administrative and business bottlenecks.
 
 ---
 
 ### 🚀 Featured Portfolio Projects
 
-| Project Name | Domain | Tech Stack | Description |
-| :--- | :--- | :--- | :--- |
-| **[Municipal Real Property Assessment Portal](https://github.com/czayna)** | B2G / Operations | Python, FastAPI, PostgreSQL, React | End-to-end tracking system resolving data silos and multi-week processing delays between Assessor and Treasurer offices[cite: 1]. |
-| **[Smart Inventory & EOQ Optimizer](https://github.com/czayna)** | Supply Chain | Python, Pandas, Streamlit | Automated ABC-XYZ inventory classification tool calculating safety stock and dynamic reorder thresholds. |
-| **[IT Helpdesk SLA Operations Tracker](https://github.com/czayna)** | IT Operations | SQL, Power BI, Python | Ticket lifecycle and MTTR analytics dashboard identifying technician bottlenecks and SLA breach risks. |
+* **[Municipal Real Property Assessment Portal](https://github.com/czayna)**: A full-stack web application built with FastAPI and PostgreSQL designed to eliminate paper-routing delays and synchronize data silos between municipal Assessor and Treasurer offices[cite: 1].
+* **[Smart Inventory & EOQ Optimizer](https://github.com/czayna)**: A Python and Streamlit-powered tool calculating dynamic safety stock levels, ABC inventory classifications, and automated reorder schedules.
+* **[IT Helpdesk Operations SLA Tracker](https://github.com/czayna)**: An operations analytics dashboard tracking ticket lifecycles, Mean Time to Resolution (MTTR), and technician workload bottlenecks.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Contributions & Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=czayna&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czayna&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
@@ -29,6 +42,6 @@ I am a **3rd-year Bachelor of Science in Information Technology student at the U
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+### 📫 Let's Connect & Collaborate
+* **LinkedIn:** [www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/)
 * **Email:** your.email@gmail.com
