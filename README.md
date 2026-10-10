@@ -25,13 +25,6 @@ I am a 3rd-year **Bachelor of Science in Information Technology** student at the
 
 ---
 
-### 🚀 Featured Portfolio Projects
-
-* **[Municipal Real Property Assessment Portal](https://github.com/czayna)**: A full-stack web application built with FastAPI and PostgreSQL designed to eliminate paper-routing delays and synchronize data silos between municipal Assessor and Treasurer offices[cite: 1].
-* **[Smart Inventory & EOQ Optimizer](https://github.com/czayna)**: A Python and Streamlit-powered tool calculating dynamic safety stock levels, ABC inventory classifications, and automated reorder schedules.
-* **[IT Helpdesk Operations SLA Tracker](https://github.com/czayna)**: An operations analytics dashboard tracking ticket lifecycles, Mean Time to Resolution (MTTR), and technician workload bottlenecks.
-
----
 
 ### 📫 Let's Connect & Collaborate
 * **LinkedIn:** [www.linkedin.com/in/your-actual-linkedin](https://www.linkedin.com/in/)
